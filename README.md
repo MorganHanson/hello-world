@@ -1,2 +1,3 @@
 # hello-world
-First Github
+##########################################
+I'm learning to use github, isn't that fun
